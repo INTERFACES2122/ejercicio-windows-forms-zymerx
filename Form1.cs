@@ -8,6 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+//Programado por Joel Alfonso Álvarez del Castillo Romo - 241368
+
 namespace RegistrodeAlumnos {
     public partial class MainScreen : Form {
 
