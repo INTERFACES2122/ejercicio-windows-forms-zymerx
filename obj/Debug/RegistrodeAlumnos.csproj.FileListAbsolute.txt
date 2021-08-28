@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\RegistrodeAlumnos\RegistrodeAlumnos\bin\Debug\RegistrodeAlumnos.exe.config
+C:\Users\Asus\source\repos\RegistrodeAlumnos\RegistrodeAlumnos\bin\Debug\RegistrodeAlumnos.exe
+C:\Users\Asus\source\repos\RegistrodeAlumnos\RegistrodeAlumnos\bin\Debug\RegistrodeAlumnos.pdb
+C:\Users\Asus\source\repos\RegistrodeAlumnos\RegistrodeAlumnos\obj\Debug\RegistrodeAlumnos.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\RegistrodeAlumnos\RegistrodeAlumnos\obj\Debug\RegistrodeAlumnos.MainScreen.resources
+C:\Users\Asus\source\repos\RegistrodeAlumnos\RegistrodeAlumnos\obj\Debug\RegistrodeAlumnos.Properties.Resources.resources
+C:\Users\Asus\source\repos\RegistrodeAlumnos\RegistrodeAlumnos\obj\Debug\RegistrodeAlumnos.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\RegistrodeAlumnos\RegistrodeAlumnos\obj\Debug\RegistrodeAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\RegistrodeAlumnos\RegistrodeAlumnos\obj\Debug\RegistrodeAlumnos.exe
+C:\Users\Asus\source\repos\RegistrodeAlumnos\RegistrodeAlumnos\obj\Debug\RegistrodeAlumnos.pdb
